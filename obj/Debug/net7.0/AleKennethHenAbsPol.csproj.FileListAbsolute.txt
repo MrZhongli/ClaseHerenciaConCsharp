@@ -1,0 +1,15 @@
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.csproj.AssemblyReference.cache
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.AssemblyInfoInputs.cache
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.AssemblyInfo.cs
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.csproj.CoreCompileInputs.cache
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\bin\Debug\net7.0\AleKennethHenAbsPol.exe
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\bin\Debug\net7.0\AleKennethHenAbsPol.deps.json
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\bin\Debug\net7.0\AleKennethHenAbsPol.runtimeconfig.json
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\bin\Debug\net7.0\AleKennethHenAbsPol.dll
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\bin\Debug\net7.0\AleKennethHenAbsPol.pdb
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.dll
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\refint\AleKennethHenAbsPol.dll
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.pdb
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\AleKennethHenAbsPol.genruntimeconfig.cache
+C:\Users\El pepe\Desktop\web\c#\AleKennethHenAbsPol\obj\Debug\net7.0\ref\AleKennethHenAbsPol.dll
